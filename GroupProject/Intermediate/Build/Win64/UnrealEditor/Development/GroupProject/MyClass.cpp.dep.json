@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jamal\\onedrive\\documents\\github\\university-github\\groupproject\\groupproject\\source\\groupproject\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jamal\\onedrive\\documents\\github\\university-github\\groupproject\\groupproject\\intermediate\\build\\win64\\groupprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\jamal\\onedrive\\documents\\github\\university-github\\groupproject\\groupproject\\intermediate\\build\\win64\\unrealeditor\\development\\groupproject\\definitions.groupproject.h",
+            "c:\\users\\jamal\\onedrive\\documents\\github\\university-github\\groupproject\\groupproject\\source\\groupproject\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

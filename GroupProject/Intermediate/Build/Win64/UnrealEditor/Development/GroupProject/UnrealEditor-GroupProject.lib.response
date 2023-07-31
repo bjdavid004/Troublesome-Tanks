@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GroupProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jamal\OneDrive\Documents\GitHub\University-Github\groupproject\GroupProject\Intermediate\Build\Win64\GroupProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\jamal\OneDrive\Documents\GitHub\University-Github\groupproject\GroupProject\Intermediate\Build\Win64\UnrealEditor\Development\GroupProject\GroupProject.cpp.obj"
+"C:\Users\jamal\OneDrive\Documents\GitHub\University-Github\groupproject\GroupProject\Intermediate\Build\Win64\UnrealEditor\Development\GroupProject\MyClass.cpp.obj"
+"C:\Users\jamal\OneDrive\Documents\GitHub\University-Github\groupproject\GroupProject\Intermediate\Build\Win64\UnrealEditor\Development\GroupProject\Default.rc2.res"
+/OUT:"C:\Users\jamal\OneDrive\Documents\GitHub\University-Github\groupproject\GroupProject\Intermediate\Build\Win64\UnrealEditor\Development\GroupProject\UnrealEditor-GroupProject.lib"

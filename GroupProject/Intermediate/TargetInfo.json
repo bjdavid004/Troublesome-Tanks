@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GroupProject",
+			"Path": "D:\\Development_Project\\700111-development-project-2223-groupproject-duck-2223\\GroupProject\\Source\\GroupProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GroupProjectEditor",
+			"Path": "D:\\Development_Project\\700111-development-project-2223-groupproject-duck-2223\\GroupProject\\Source\\GroupProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
